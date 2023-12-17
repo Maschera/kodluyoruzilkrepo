@@ -6,9 +6,9 @@ Bu repo [patika.dev](https://patika.dev) Back End eğitimimde oluşturduğum ilk
 
 Öncelikle projeyi clonelayın. (Burada sizin reponuzdan aldığınız link gelecek.)
 
-``
-git clone https://github.com/Maschera/kodluyoruzilkrepo
-``
+
+`git clone https://github.com/Maschera/kodluyoruzilkrepo`
+
 
 ## Usage
 
@@ -16,11 +16,8 @@ Projeyi cloneladıktan sonra Visual Studio code ile açınız.
 
 Linux için:
 
-``
-cd kodluyoruzrepo
-<br>
-code .
-``
+`cd kodluyoruzrepo`
+`code .`
 
 ## Contributing
 
