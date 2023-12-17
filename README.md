@@ -16,8 +16,10 @@ Projeyi cloneladıktan sonra Visual Studio code ile açınız.
 
 Linux için:
 
-`cd kodluyoruzrepo`
-`code .`
+```
+cd kodluyoruzrepo
+code .
+```
 
 ## Contributing
 
